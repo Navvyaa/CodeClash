@@ -17,8 +17,8 @@ CodeClash is a modern, interactive coding contest platform built with Next.js th
 - **Automatic Code Evaluation**: Instant feedback with our robust testing system against various test cases
 
 ### screenshots
-![alt text](<Screenshot 2025-08-26 at 11.26.56 PM.png>)
-![alt text](<Screenshot 2025-08-26 at 11.27.58 PM.png>)
+![alt text](<Screenshot 2025-08-26 at 11.26.56 PM.png>)
+![alt text](<Screenshot 2025-08-26 at 11.27.58 PM.png>)
 
 ### User Experience
 - **Personalized Dashboard**: Track your progress, upcoming contests, and past performances
